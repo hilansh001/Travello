@@ -1,0 +1,49 @@
+body {
+  padding-top: 56px;
+}
+.navbar {
+    background-color: #31112c;
+}
+.list-group-item .btn{
+    width: 100%;
+    margin: 10px 0;
+}
+/* .cost{
+    float: right;
+    display: inline-block;
+}
+.discount{
+    float: right;
+    display: inline-block;
+    font-weight: 500;
+} */
+.mrt{
+    margin-right: 10px;
+}
+.total{
+    background-color: #f6f6f6;
+    font-size: 1.5rem;
+    padding: 10px;
+    font-weight: 500;
+}
+.footer {
+    background-color: #31112c;
+}
+
+.footertext {
+    color: white;
+    text-align: center;
+}
+.navbar-contents{
+  text-align: right;
+  color: white;
+  display: inline-block;
+  margin-top: 6px;
+  font-size: 15px;
+}
+.about-us{
+  margin-left: 800px;
+}
+.empty{
+  height : 300px;
+}
