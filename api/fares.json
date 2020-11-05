@@ -76,7 +76,7 @@
     {
       "transport": "train",
       "departure": "Mumbai",
-      "arrival": "Hydrabad",
+      "arrival": "Hyderabad",
       "duration": {
         "h": "05",
         "m": "15"
@@ -88,7 +88,7 @@
     {
       "transport": "bus",
       "departure": "Mumbai",
-      "arrival": "Hydrabad",
+      "arrival": "Hyderabad",
       "duration": {
         "h": "05",
         "m": "15"
@@ -100,7 +100,7 @@
     {
       "transport": "car",
       "departure": "Mumbai",
-      "arrival": "Hydrabad",
+      "arrival": "Hyderabad",
       "duration": {
         "h": "04",
         "m": "45"
@@ -183,8 +183,8 @@
     },
     {
       "transport": "train",
-      "departure": "Hydrabad",
-      "arrival": "pondicherry",
+      "departure": "Hyderabad",
+      "arrival": "Pondicherry",
       "duration": {
         "h": "05",
         "m": "15"
@@ -195,8 +195,8 @@
     },
     {
       "transport": "bus",
-      "departure": "Hydrabad",
-      "arrival": "pondicherry",
+      "departure": "Hyderabad",
+      "arrival": "Pondicherry",
       "duration": {
         "h": "05",
         "m": "15"
@@ -207,8 +207,8 @@
     },
     {
       "transport": "car",
-      "departure": "Hydrabad",
-      "arrival": "pondicherry",
+      "departure": "Hyderabad",
+      "arrival": "Pondicherry",
       "duration": {
         "h": "05",
         "m": "15"
@@ -219,7 +219,7 @@
     },
     {
       "transport": "train",
-      "departure": "Hydrabad",
+      "departure": "Hyderabad",
       "arrival": "Bangalore",
       "duration": {
         "h": "03",
@@ -231,7 +231,7 @@
     },
     {
       "transport": "bus",
-      "departure": "Hydrabad",
+      "departure": "Hyderabad",
       "arrival": "Bangalore",
       "duration": {
         "h": "06",
@@ -243,7 +243,7 @@
     },
     {
       "transport": "car",
-      "departure": "Hydrabad",
+      "departure": "Hyderabad",
       "arrival": "Bangalore",
       "duration": {
         "h": "04",
@@ -255,7 +255,7 @@
     },
     {
       "transport": "train",
-      "departure": "Hydrabad",
+      "departure": "Hyderabad",
       "arrival": "Mumbai",
       "duration": {
         "h": "05",
@@ -267,7 +267,7 @@
     },
     {
       "transport": "bus",
-      "departure": "Hydrabad",
+      "departure": "Hyderabad",
       "arrival": "Mumbai",
       "duration": {
         "h": "05",
@@ -279,7 +279,7 @@
     },
     {
       "transport": "car",
-      "departure": "Hydrabad",
+      "departure": "Hyderabad",
       "arrival": "Mumbai",
       "duration": {
         "h": "04",
@@ -291,8 +291,8 @@
     },
     {
       "transport": "train",
-      "departure": "pondicherry",
-      "arrival": "Chandighar",
+      "departure": "Pondicherry",
+      "arrival": "Chandigarh",
       "duration": {
         "h": "04",
         "m": "30"
@@ -303,8 +303,8 @@
     },
     {
       "transport": "bus",
-      "departure": "pondicherry",
-      "arrival": "Chandighar",
+      "departure": "Pondicherry",
+      "arrival": "Chandigarh",
       "duration": {
         "h": "05",
         "m": "30"
@@ -315,8 +315,8 @@
     },
     {
       "transport": "car",
-      "departure": "pondicherry",
-      "arrival": "Chandighar",
+      "departure": "Pondicherry",
+      "arrival": "Chandigarh",
       "duration": {
         "h": "04",
         "m": "00"
@@ -327,8 +327,8 @@
     },
     {
       "transport": "train",
-      "departure": "pondicherry",
-      "arrival": "Hydrabad",
+      "departure": "Pondicherry",
+      "arrival": "Hyderabad",
       "duration": {
         "h": "05",
         "m": "00"
@@ -339,8 +339,8 @@
     },
     {
       "transport": "bus",
-      "departure": "pondicherry",
-      "arrival": "Hydrabad",
+      "departure": "Pondicherry",
+      "arrival": "Hyderabad",
       "duration": {
         "h": "05",
         "m": "45"
@@ -351,8 +351,8 @@
     },
     {
       "transport": "car",
-      "departure": "pondicherry",
-      "arrival": "Hydrabad",
+      "departure": "Pondicherry",
+      "arrival": "Hyderabad",
       "duration": {
         "h": "05",
         "m": "45"
@@ -616,7 +616,7 @@
     {
       "transport": "train",
       "departure": "Bangalore",
-      "arrival": "Hydrabad",
+      "arrival": "Hyderabad",
       "duration": {
         "h": "04",
         "m": "30"
@@ -628,7 +628,7 @@
     {
       "transport": "bus",
       "departure": "Bangalore",
-      "arrival": "Hydrabad",
+      "arrival": "Hyderabad",
       "duration": {
         "h": "06",
         "m": "30"
@@ -640,7 +640,7 @@
     {
       "transport": "car",
       "departure": "Bangalore",
-      "arrival": "Hydrabad",
+      "arrival": "Hyderabad",
       "duration": {
         "h": "04",
         "m": "30"
@@ -652,7 +652,7 @@
     {
       "transport": "train",
       "departure": "Bangalore",
-      "arrival": "Chandighar",
+      "arrival": "Chandigarh",
       "duration": {
         "h": "04",
         "m": "15"
@@ -664,7 +664,7 @@
     {
       "transport": "bus",
       "departure": "Bangalore",
-      "arrival": "Chandighar",
+      "arrival": "Chandigarh",
       "duration": {
         "h": "05",
         "m": "00"
@@ -676,7 +676,7 @@
     {
       "transport": "car",
       "departure": "Bangalore",
-      "arrival": "Chandighar",
+      "arrival": "Chandigarh",
       "duration": {
         "h": "05",
         "m": "15"
@@ -759,8 +759,8 @@
     },
     {
       "transport": "train",
-      "departure": "Chandighar",
-      "arrival": "pondicherry",
+      "departure": "Chandigarh",
+      "arrival": "Pondicherry",
       "duration": {
         "h": "03",
         "m": "45"
@@ -771,8 +771,8 @@
     },
     {
       "transport": "bus",
-      "departure": "Chandighar",
-      "arrival": "pondicherry",
+      "departure": "Chandigarh",
+      "arrival": "Pondicherry",
       "duration": {
         "h": "06",
         "m": "00"
@@ -783,8 +783,8 @@
     },
     {
       "transport": "car",
-      "departure": "Chandighar",
-      "arrival": "pondicherry",
+      "departure": "Chandigarh",
+      "arrival": "Pondicherry",
       "duration": {
         "h": "04",
         "m": "30"
@@ -795,7 +795,7 @@
     },
     {
       "transport": "train",
-      "departure": "Chandighar",
+      "departure": "Chandigarh",
       "arrival": "Dehradun",
       "duration": {
         "h": "05",
@@ -807,7 +807,7 @@
     },
     {
       "transport": "bus",
-      "departure": "Chandighar",
+      "departure": "Chandigarh",
       "arrival": "Dehradun",
       "duration": {
         "h": "07",
@@ -819,7 +819,7 @@
     },
     {
       "transport": "car",
-      "departure": "Chandighar",
+      "departure": "Chandigarh",
       "arrival": "Dehradun",
       "duration": {
         "h": "04",
@@ -831,7 +831,7 @@
     },
     {
       "transport": "train",
-      "departure": "Chandighar",
+      "departure": "Chandigarh",
       "arrival": "Bangalore",
       "duration": {
         "h": "03",
@@ -843,7 +843,7 @@
     },
     {
       "transport": "bus",
-      "departure": "Chandighar",
+      "departure": "Chandigarh",
       "arrival": "Bangalore",
       "duration": {
         "h": "05",
@@ -855,7 +855,7 @@
     },
     {
       "transport": "car",
-      "departure": "Chandighar",
+      "departure": "Chandigarh",
       "arrival": "Bangalore",
       "duration": {
         "h": "05",
@@ -1180,7 +1180,7 @@
     {
       "transport": "car",
       "departure": "Itanagar",
-      "arrival": "Faridhabad",
+      "arrival": "Faridabad",
       "duration": {
         "h": "05",
         "m": "15"
@@ -1264,7 +1264,7 @@
     {
       "transport": "train",
       "departure": "Dehradun",
-      "arrival": "Chandighar",
+      "arrival": "Chandigarh",
       "duration": {
         "h": "05",
         "m": "00"
@@ -1276,7 +1276,7 @@
     {
       "transport": "bus",
       "departure": "Dehradun",
-      "arrival": "Chandighar",
+      "arrival": "Chandigarh",
       "duration": {
         "h": "05",
         "m": "00"
@@ -1288,7 +1288,7 @@
     {
       "transport": "car",
       "departure": "Dehradun",
-      "arrival": "Chandighar",
+      "arrival": "Chandigarh",
       "duration": {
         "h": "05",
         "m": "00"
