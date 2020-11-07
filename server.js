@@ -50,6 +50,14 @@ app.post("/welcomepage", function(req, res){
   console.log(req);
   res.redirect('/');
 });
+app.post("/aboutus", function(req, res){
+    console.log(req);
+    res.redirect('/aboutus');
+  });
+app.post("/contact", function(req, res){
+    console.log(req);
+    res.redirect('/contact');
+  });
 
 
 const server = http.createServer(app);
