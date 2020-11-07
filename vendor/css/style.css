@@ -8,16 +8,19 @@ body {
     width: 100%;
     margin: 10px 0;
 }
-
+.cost{
+    float: right;
+    display: inline-block;
+}
 .first-image{
   max-width: 95%;
   max-height: 95%;
 }
 
-.cost{
-    float: right;
-    display: inline-block;
+span.carousel-control-prev-icon {
+  margin-right: 85px !important;
 }
+
 .discount{
     float: right;
     display: inline-block;
@@ -57,5 +60,26 @@ body {
   margin: 10px 10px;
   font-family: 'Anton', sans-serif;
   text-align: center;
+  display: inline-block;
+  box-shadow: 4px 4px;
+  color:#31112c;
+
+
+}
+
+.ttt{
+  font-size: 15px!important;
+}
+.cpp{
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 150px;
+
+}
+.auh1{
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 2em!important;
+  color:#31112c;
 
 }
